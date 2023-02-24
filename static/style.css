@@ -1,0 +1,91 @@
+body{
+    font-family:cursive;
+}
+.col-7{
+    margin-top: 200px;
+}
+.nav{
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 150px;
+}
+.nb{
+    box-shadow:  0.1px 1px 10px purple;
+}
+.nav-link{
+    color: black;
+    font-weight: bolder;
+}
+.nav-link:hover{
+    color: purple;
+}
+h1{
+    font-size: 80px;
+    text-shadow: 5px 5px 5px purple;
+    font-weight: bolder;;
+}
+h2{
+    font-size: 50px;
+    font-weight: bolder;;
+}
+.head{
+    text-shadow: 5px 5px 5px purple;
+}
+.col-5{
+    margin-top: 100px;
+}
+.logo{
+    border-radius: 50%;
+}
+.c1, .c2, .c4{
+    margin-top: 200px;
+}
+.c1{
+    background-color: purple;
+    color: white;
+    text-shadow: 5px 5px 5px black;
+    padding: 100px;
+    text-align: center;
+    background-size: cover;
+}
+.c2{
+    text-align: center;
+}
+.c4{
+    margin-bottom: 100px;
+    background-color: purple;
+    color: white;
+    text-shadow: 5px 5px 5px black;
+    padding: 100px;
+    background-size: cover;
+
+}
+.para1{
+    font-size: 20px;
+    margin-top: 50px;
+}
+.asl{
+    margin-top: 100px;
+    height: 400px;
+    width: 600px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 50px 15px purple;
+}
+button{
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: white;
+    color: purple;
+    border: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: #a880c7;
+    color: black;
+}
+h3{
+    margin-top: 20px;
+}
